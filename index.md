@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+# Alex Park's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Some of my favorite things about this class are:
+- The chill teachers
+- We only have one lecture per week
+- There's not that much homework
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
